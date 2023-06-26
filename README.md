@@ -15,5 +15,5 @@
 
 ## Reference website
 
-- Jon Kleinberg's Homepage : [Sourcecode](view-source:https://www.cs.cornell.edu/home/kleinber/)
-- Thomas H. Corme : [Sourcecode](view-source:https://www.cs.dartmouth.edu/~thc/)
+- Jon Kleinberg : [Sourcecode](https://www.cs.cornell.edu/home/kleinber/)
+- Thomas H. Corme : [Sourcecode](https://www.cs.dartmouth.edu/~thc/)
